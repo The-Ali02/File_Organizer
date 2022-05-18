@@ -14,4 +14,4 @@ Any python IDLE installed of 8.2 version or above
 
 -Download the python code file .
 -Place the code file in the folder which you want to organize.
--Run the code and there you go.
+-Run the code and there you go..!
